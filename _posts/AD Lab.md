@@ -1,6 +1,6 @@
 ---
 title: Hello and welcome
-date: 2024-1004-17 13:40 +0200
+date: 2024-04-17 13:40 +0200
 categories: #[homelab,hardware]
 tags: #[servers,vmware]     # TAG names should always be lowercase
 ---
