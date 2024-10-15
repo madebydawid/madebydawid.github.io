@@ -4,6 +4,8 @@ date: 2024-1004-17 13:40 +0200
 categories: #[homelab,hardware]
 tags: #[servers,vmware]     # TAG names should always be lowercase
 ---
+<img src="https://images.unsplash.com/photo-1683322499436-f4383dd59f5a?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A beautiful landscape" width="100%" height="300px" style="object-fit: cover;" />
+
 
 # Active Directory and PowerShell Home Lab
 **Post Author:** Dawid  
