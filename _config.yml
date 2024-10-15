@@ -132,14 +132,10 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: true
+    enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-<<<<<<< HEAD
-    env: development
-=======
-    env: #development
->>>>>>> d1f27dda52fef8033d6f7a897eb94756e8368275
+    env: # [development | production]
 
 pwa:
   enabled: true # The option for PWA feature (installable)
