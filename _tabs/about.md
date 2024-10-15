@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-
-# About Me
-
 Welcome to my world of technology, learning, and adventure!
 
 Hello, and thank you for taking the time to explore my journey! I’m a 40-year-old with a passion that spans from my first steps into the fascinating world of computers to delving into the nuances of cognitive neuroscience. My path has been a vibrant blend of technology, science, and a relentless curiosity for what lies beyond the horizon.
