@@ -1,8 +1,8 @@
 ---
 title: Hello Labspace
 date: 2024-10-14 14:40
-categories: [homelab, hardware]
-tags: [servers, vmware]
+categories: [homelab,hardware]
+tags: [servers,vmware]     # TAG names should always be lowercase
 ---
 
 # Welcome
