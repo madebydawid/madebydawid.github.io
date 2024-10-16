@@ -37,10 +37,7 @@ social:
 <<<<<<< HEAD
   name: Dawid
   email: # example@domain.com # change to your email address
-=======
-  name: Dawid Kuzbiel
-  email: # example@domain.com # change to your email address
->>>>>>> 8468561b5b397a0dc6fd6136330fbc9a3e94add5
+  
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
