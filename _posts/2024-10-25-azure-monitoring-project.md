@@ -1,6 +1,6 @@
 ---
 title: Azure Monitoring Projects
-date: 2024-04-17 13:40 +0200
+date: 2024-10-25 13:40 +0200
 categories: [projects,github,azure]
 tags: [dashboard,rbac,automation]     # TAG names should always be lowercase
 ---
