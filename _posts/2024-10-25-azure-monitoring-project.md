@@ -9,7 +9,7 @@ tags: [dashboard,rbac,automation]     # TAG names should always be lowercase
             background-size: cover; 
             background-position: center; 
             width: 100%; 
-            height: 200px;">
+            height: 300px;">
 </div>
 
 <br>
@@ -17,8 +17,7 @@ tags: [dashboard,rbac,automation]     # TAG names should always be lowercase
 
 >#### This and other projects can be found at my [GitHub](https://github.com/madebydawid).
 ---
-<br>
-<br>
+
 
 # Why Azure Monitoring?
 
@@ -53,23 +52,24 @@ After configuring [an inbound security rule](https://github.com/madebydawid/azur
 
 To send traffic between VM2 and VM3 with iPerf3 following steps were executed:
 
-1. First I had to install iPerf3, which is done with the command below:
 ```bash
+# Install iPerf3
 sudo apt-get install iPerf3
 ```
-2. I set VM3 to act as a server with:
-```bash
-iPerf3 -s
-```
-3. And sent network traffic with:
 
 ```bash
+# Set VM3 to act as a server
+iPerf3 -s
+```
+
+```bash
+# Send network traffic
 iperf3 -c 20.240.193.196 -t 60 -b 220M -p 5201
 ```
--   -c = ip number
--   -t = time to send traffic
--   -b = ammount of traffic
--   -p = destination port
+-   -c = IP number
+-   -t = Time to send traffic
+-   -b = Ammount of traffic
+-   -p = Destination port
 
 ## What I Learned
 
