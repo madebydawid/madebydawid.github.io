@@ -15,13 +15,11 @@ tags: [dashboard,rbac,automation]     # TAG names should always be lowercase
 <br>
 <br>
 
->#### This and other projects can be found at my [GitHub](https://github.com/madebydawid).
----
 
 
 # Why Azure Monitoring?
 
-Recently, a proposal came up at my current job to create a Dashboard for our Azure resources to provide a holistic view of what’s running in the cloud and the status of different resources. Although it won’t be my project, I couldn’t help but feel curious. So, I decided to create a mini-version of that dashboard in my spare time to gain experience and simply becouse I enjoy learning new technologies 😊.
+A proposal came up recently at my current job to create a Dashboard for our Azure resources to provide a holistic view of what’s running in the cloud and the status of different resources. Although it won’t be my project, I couldn’t help but feel curious. So, I decided to create a mini-version of that dashboard in my spare time to gain experience and simply because I enjoy learning new technologies 😊.
 
 # Azure Monitoring Projects
 
@@ -68,7 +66,7 @@ iperf3 -c 20.240.193.196 -t 60 -b 220M -p 5201
 ```
 -   -c = IP number
 -   -t = Time to send traffic
--   -b = Ammount of traffic
+-   -b = Amount of traffic
 -   -p = Destination port
 
 ## What I Learned
@@ -77,8 +75,11 @@ This project gave me a deeper understanding of real-time monitoring and complex 
 
 ## Next Steps
 
-In the future I plan to explore log analytics in Azure. and see how advanced automations can be applied to additional resources.
+In the future I plan to explore log analytics in Azure. and see how advanced automation can be applied to additional resources.
 
+---
 
+>#### This and other projects can be found at my [GitHub](https://github.com/madebydawid).
+---
 
 //Cheers - Dawid
