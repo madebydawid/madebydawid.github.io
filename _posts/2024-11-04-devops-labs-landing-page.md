@@ -30,7 +30,7 @@ My long-term aim is to eventually transition from my current role as an IT techn
 
   
 
-Here, I’ve outlined each project briefly, with links to detailed posts for those interested in learning more. And to my GitHub where the solutions are presented.
+Here, I’ve outlined each project briefly, with links to detailed posts for those interested in learning more. Link to my GitHub where the solutions are presented is also available [here](https://github.com/madebydawid/devops-labs).
 
 There will also be individual posts going into more detail about each tool/project and my thoughts, challenges and what I learned from each and one of them.
 
