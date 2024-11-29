@@ -42,7 +42,7 @@ Run the script with the required arguments, such as the log directory and the de
 
 ## How did I approach the challenge?
 I did some online research and used LLMs to guide me by suggesting steps without providing direct answers—unless I specifically asked for them.
-Although I had some prior experience with ``.tar.gz`` files from practicing ethical hacking on [TryHackMe.com](www.tryhackme.com), I still needed to look up the correct syntax.
+Although I had some prior experience with ``.tar.gz`` files from practicing ethical hacking on www.tryhackme.com, I still needed to look up the correct syntax.
 
 But with some help from my AI-robot LLM friends and google-ninja stuff I finished the project with great success.
 
