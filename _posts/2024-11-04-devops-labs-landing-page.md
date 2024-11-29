@@ -16,25 +16,17 @@ tags: [monitoring, automation, ci/cd, docker, iac, cloud_infrastructure, configu
 
 # DevOps Projects Overview
 
-  
+Recently, I embarked on a journey to enhance my DevOps skills and practice the essential tools and techniques needed for a potential transition into Cloud Engineering or DevOps. While exploring online resources, I came across a series of challenges on Roadmap.sh that immediately sparked my interest. This long-term initiative is divided into 21 smaller (yet far from trivial) projects, starting with beginner-friendly tasks like Bash scripting and automation, progressing to intermediate-level topics such as Infrastructure as Code (IaC) and cloud technologies, and culminating in advanced areas like monitoring with Prometheus and Grafana, multi-service Docker deployments, and more.
 
-As part of my journey to deepen my understanding of DevOps and Cloud Engineering tools, I found a series of challenges at [Roadmap.sh](https://roadmap.sh/devops/projects) that captured my curiosity.
+This project offers me an opportunity to dive deep into the tools and methodologies commonly used by Cloud and DevOps Engineers. It covers a wide range of topics, including CLI scripting, automation, IaC, monitoring, Docker, and beyond.
 
-This project lets me delve deeper into tools used by Cloud/DevOps Engineers and involve things like, CLI-scripting, automation, IaC, monitoring, docker and more.
+Taking a hands-on approach allows me to challenge myself, explore new technologies, and indulge my passion for problem-solving in these domains.
 
-  
+My ultimate goal is to transition from my current role as an IT technician to a Cloud Engineer position, and this project serves as a stepping stone toward achieving that dream.
 
-A direct hands-on approach lets me challenge myself, it allows me explore technologies and satisfy my curiosity for problem-solving within these fields.
+In this blog post, I’ve outlined each project briefly, with links to detailed write-ups for those who want to learn more. You can also find my GitHub repository, where I showcase the solutions, here.
 
-My long-term aim is to eventually transition from my current role as an IT technician to a Cloud Engineer position, thus making this project a valuable learning experience.
-
-  
-
-Here, I’ve outlined each project briefly, with links to detailed posts for those interested in learning more. Link to my GitHub where the solutions are presented is also available [here](https://github.com/madebydawid/devops-labs).
-
-There will also be individual posts going into more detail about each tool/project and my thoughts, challenges and what I learned from each and one of them.
-
-  
+Additionally, I’ll be publishing individual posts that delve deeper into each tool and project, sharing my thoughts, challenges, and key takeaways from every step of the journey.
 
 Enjoy! 😊
 

@@ -1,7 +1,7 @@
 ---
 title: Server Performance Stats Tool
 date: 2024-11-05 10:40 +0200
-categories: [DevOps, Monitoring]
+categories: [Linux, DevOps, Monitoring]
 tags: [linux, shell_scripting, monitoring, performance_analysis]
 ---
 
@@ -13,8 +13,7 @@ tags: [linux, shell_scripting, monitoring, performance_analysis]
 
 </div>
  
-# Server Performance Stats Tool
-
+# Project 01/21
 This project focuses on creating a script that gathers and displays essential performance statistics from any Linux server. The goal is to deepen my understanding of server monitoring and improve my shell scripting skills. I love working in Linux environment and in Bash cli, but I feel that my scripting skills leave a lot of room for improvement, thus this project was lots of fun and learning.
 I am nowhere near a professional scripting-king but I did solve the task nonetheless, albeit with the help of LLM's 😊
 
